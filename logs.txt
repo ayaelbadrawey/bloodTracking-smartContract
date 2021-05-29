@@ -1,0 +1,2 @@
+{"class":"org.vehiclelifecycle.Vehicle","key":"4567788:Prius","color":"blue","docType":"vehicle","make":"Toyota","model":"Prius","orderId":"4567788","owner":"Tomoko","vin":"CD58911","vinStatus":"NOVALUE"}
+{"class":"org.vehiclelifecycle.Vehicle","key":"4567788:Prius","color":"blue","docType":"vehicle","make":"Toyota","model":"Prius","orderId":"4567788","owner":"Tomoko","vin":"CD58911","vinStatus":"NOVALUE"}
